@@ -1,0 +1,9 @@
+{
+	"name": "adf-sourish-dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dddf4bbd-f0f2-46f8-81f9-ef8217a942b3",
+		"tenantId": "d7bab856-dda5-41c4-87b1-ed00410abc02"
+	}
+}
